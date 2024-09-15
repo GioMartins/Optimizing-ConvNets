@@ -1,5 +1,5 @@
 # Optimizing-Neural-Networks
-Optimizing MLP's and CNN's architecture using genetic algorithms.
+Optimizing CNN's architecture using genetic algorithms.
 
 ## Motivation
 
